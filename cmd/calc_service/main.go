@@ -4,6 +4,8 @@ import (
 	"awesomeProject/internal"
 	"fmt"
 	"net/http"
+
+	"github.com/KhalidAskhab/FinalTaskSecondSprint/internal"
 )
 
 func main() {
