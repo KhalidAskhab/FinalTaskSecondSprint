@@ -1,7 +1,6 @@
 package main
 
 import (
-	"awesomeProject/internal"
 	"fmt"
 	"net/http"
 
