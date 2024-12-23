@@ -7,7 +7,6 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/KhalidAskhab/FinalTaskSecondSprint/internal"
 )
 
 type Request struct {
