@@ -1,1 +1,1 @@
-module awesomeProject
+module github.com/KhalidAskhab/FinalTaskSecondSprint
