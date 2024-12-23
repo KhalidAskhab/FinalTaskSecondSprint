@@ -6,7 +6,7 @@ import (
 	"strings"
 	"unicode"
 
-	"https://github.com/KhalidAskhab/FinalTaskSecondSprint/tree/master/internal"
+	"github.com/KhalidAskhab/FinalTaskSecondSprint/internal"
 )
 
 func Calc(expression string) (float64, error) {
