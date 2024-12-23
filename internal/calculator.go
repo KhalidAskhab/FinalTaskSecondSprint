@@ -5,8 +5,6 @@ import (
 	"strconv"
 	"strings"
 	"unicode"
-
-	"github.com/KhalidAskhab/FinalTaskSecondSprint/internal"
 )
 
 func Calc(expression string) (float64, error) {
